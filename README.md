@@ -120,7 +120,4 @@ curl http://localhost:8080/todos
 * `service.go` - Contains the business logic
 * `todo.go` - Data model for a todo item
 
-```
-
----
 
